@@ -10,7 +10,7 @@ window.INVITATION_CONFIG = {
     venue: "Janos Hurlingham",
     address: "Gral. Pedro Díaz 1800, Hurlingham",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=Janos+Hurlingham+Gral.+Pedro+D%C3%ADaz+1800+Hurlingham",
-    whatsappNumber: "5491156223007",
+    whatsappNumber: "",
     whatsappMessage: "¡Hola! Confirmo mi asistencia al cumpleaños de Juancito. 🐮🌾",
     instagramUrl: "https://www.instagram.com/rossdigitalstudio/",
     instagramHandle: "@rossdigitalstudio",
